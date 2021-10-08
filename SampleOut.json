@@ -1,266 +1,206 @@
 {
-    "status": "ok",
-    "totalResults": 773,
-    "articles": [
+  "status": "ok",
+  "totalResults": 32,
+  "articles": [
     {
-    "source": {
-    "id": "engadget",
-    "name": "Engadget"
-    },
-    "author": "Steve Dent",
-    "title": "Apple makes it easier to report bad apps and scams",
-    "description": "Following reports that revealed that a significant percentage of top App Store apps were scams, Apple is allowing users to report such behavior, according to The Verge. As part of iOS 15, the latest App Store update lets you \"report a scam or fraud\" for both …",
-    "url": "https://www.engadget.com/following-criticism-apple-now-allows-users-to-report-app-store-scams-094849581.html",
-    "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-08/1dcd9640-fafb-11eb-8fde-3d5cdabb0674",
-    "publishedAt": "2021-10-04T09:48:49Z",
-    "content": "Following reports that revealed that a significant percentage of top App Store apps were scams, Apple is allowing users to report such behavior, according to The Verge. As part of iOS 15, the latest … [+1403 chars]"
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": null,
+      "title": "Amid firestorm, Facebook doubles down on research - CNN Video",
+      "description": "Facebook VP Nick Clegg tells Brian Stelter that the social media firm will continue conducting internal research to understand the effects of its platforms, even after an embarrassing leak of research to the Wall Street Journal.",
+      "url": "http://us.cnn.com/videos/business/2021/10/03/amid-firestorm-facebook-doubles-down-on-research.cnn",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211003132708-rs-a-block-2-nick-super-tease.jpg",
+      "publishedAt": "2021-10-04T13:52:25.311478Z",
+      "content": null
     },
     {
-    "source": {
-    "id": "reuters",
-    "name": "Reuters"
-    },
-    "author": "Richa Naidu",
-    "title": "From 'Animal Crossing' to Netflix: Unilever and P&G search for young consumers in a pandemic - Reuters.com",
-    "description": "Unilever Plc  and Procter & Gamble, the world's top two  advertisers, are seeking out younger audiences by reallocating some 2021 spending away from traditional TV and into video games, streaming services and media programs operated by retailers like Walmart …",
-    "url": "https://www.reuters.com/article/consumer-goods-advertising-idUSKBN2GU0DX",
-    "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20211004&t=2&i=1576748341&r=LYNXMPEH93064&w=800",
-    "publishedAt": "2021-10-04T06:09:00Z",
-    "content": "CHICAGO (Reuters) - Unilever Plc and Procter &amp; Gamble, the worlds top two advertisers, are seeking out younger audiences by reallocating some 2021 spending away from traditional TV and into video… [+3698 chars]"
+      "source": { "id": "ars-technica", "name": "Ars Technica" },
+      "author": "Tim De Chant",
+      "title": "Facebook “is tearing our societies apart,” whistleblower says in interview",
+      "description": "\"Facebook, over and over again, chose to optimize for its own interests.\"",
+      "url": "https://arstechnica.com/tech-policy/2021/10/facebook-is-tearing-our-societies-apart-whistleblower-says-in-interview/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/facebookvideo-760x380.jpg",
+      "publishedAt": "2021-10-04T13:46:09+00:00",
+      "content": "Enlarge/ Facebook whistleblower Frances Haugen's 60 Minutes interview aired on October 3, 2021.\r\n21 with 19 posters participating\r\nThe Facebook whistleblower revealed her identity last night along wi… [+6971 chars]"
     },
     {
-    "source": {
-    "id": "reuters",
-    "name": "Reuters"
-    },
-    "author": null,
-    "title": "From 'Animal Crossing' to Netflix: Unilever and P&G search for young consumers in a pandemic - Reuters",
-    "description": "Unilever Plc <a href=\"https://www.reuters.com/companies/ULVR.L\" target=\"_blank\">(ULVR.L)</a>  and Procter & Gamble <a href=\"https://www.reuters.com/companies/PG.N\" target=\"_blank\">(PG.N)</a>, the world's top two  advertisers, are seeking out younger audiences…",
-    "url": "https://www.reuters.com/business/animal-crossing-netflix-unilever-pg-search-young-consumers-pandemic-2021-10-04/",
-    "urlToImage": "https://www.reuters.com/resizer/a-RfrzXs_XjhRogv7p1FrUWcFO4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2NDPLRDULZP43MMHIJ3CJNE64M.jpg",
-    "publishedAt": "2021-10-04T06:08:00Z",
-    "content": "CHICAGO, Oct 4 (Reuters) - Unilever Plc (ULVR.L) and Procter &amp; Gamble (PG.N), the world's top two advertisers, are seeking out younger audiences by reallocating some 2021 spending away from tradi… [+3922 chars]"
+      "source": { "id": "lenta", "name": "Lenta" },
+      "author": "Lenta",
+      "title": "Продюсер занялся поиском квартиры в Москве и взволновал россиянок",
+      "description": "Продюсер по имени Петр разместил объявление о поиске жилья в Москве в группе «Airport/Sokol Da Neighborhood» в Facebook, чем заинтересовал многих местных жительниц.  \n\nМужчина рассказал, что планирует найти квартиру в районе станции метро «Сокол»",
+      "url": "https://moslenta.ru/news/prodyuser-zanyalsya-poiskom-kvartiry-v-moskve-i-vzvolnoval-rossiyanok-04-10-2021.htm/?utm_source=from_lenta",
+      "urlToImage": "https://moslenta.ru/imgs/2021/10/04/08/4934969/ce6feb5f71baf900d6fba74e814d433f9df1e3f0.jpg",
+      "publishedAt": "2021-10-04T13:44:47Z",
+      "content": "« . , . », .\r\n . , , , .\r\n« ? », « , . . », « , », « ! », .\r\n, , 25- . , . « », « , , », ."
     },
     {
-    "source": {
-    "id": null,
-    "name": "The Guardian"
-    },
-    "author": "Samuel Gibbs Consumer technology editor",
-    "title": "Apple iPhone 13 review: cheaper, longer lasting and better camera",
-    "description": "Small upgrades on last year’s best iPhone, now with twice the starting storageThe iPhone 13 is a minor upgrade to last year’s brilliant iPhone 12, with an improved camera, larger storage longer battery life and a small price cut.Apple’s latest regular-sized s…",
-    "url": "https://amp.theguardian.com/technology/2021/oct/04/apple-iphone-13-review-cheaper-longer-lasting-and-better-camera",
-    "urlToImage": "https://i.guim.co.uk/img/media/57daf7ac13cd25f41f3eda61abb8dfdd0c446962/216_402_5108_3066/master/5108.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=c21a886f349e4e82ea6cfa8ffefc7ef6",
-    "publishedAt": "2021-10-04T06:00:49Z",
-    "content": "The iPhone 13 is a minor upgrade to last years brilliant iPhone 12, with an improved camera, larger storage longer battery life and a small price cut.\r\nApples latest regular-sized smartphone costs £7… [+7587 chars]"
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Adi Robertson, Jay Peters",
+      "title": "What is the metaverse, and do I have to care?",
+      "description": "The metaverse is a popular encapsulation of trends found in Fortnite, Roblox, Facebook Horizon, and other virtual worlds — but also an inspirational term for the future of the internet.",
+      "url": "https://www.theverge.com/22701104/metaverse-explained-fortnite-roblox-facebook-horizon",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/offLVVkAIVr2pkDxFmAnJhpJ8mM=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22888569/acastro_210929_4779_0001.jpg",
+      "publishedAt": "2021-10-04T12:40:29Z",
+      "content": "In recent months you may have heard about something called the metaverse. Maybe youve read that the metaverse is going to replace the internet. Maybe were all supposed to live there. Maybe Facebook (… [+17973 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "The Guardian"
-    },
-    "author": "Nesrine Malik",
-    "title": "Is it so radical to say that the police aren’t fit for purpose? | Nesrine Malik",
-    "description": "From the UK to the US, the police are there to protect the powerful, not the powerless. It’s time to rethink what ‘security’ means for us allMore people are beginning to see it. Not clearly, but something is coming into view. When a policeman, known to collea…",
-    "url": "https://amp.theguardian.com/commentisfree/2021/oct/04/radical-police-not-fit-for-purpose",
-    "urlToImage": "https://i.guim.co.uk/img/media/6fd8d89f083f5c2aec51079a94165ee70430efde/0_129_5485_3294/master/5485.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=402b9f0e523bf6fbfcca940cd139d7c9",
-    "publishedAt": "2021-10-04T06:00:49Z",
-    "content": "More people are beginning to see it. Not clearly, but something is coming into view. When a policeman, known to colleagues as the rapist, murders a woman after luring her with his police credentials,… [+5246 chars]"
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Whistleblower says Facebook put profit before reining in hate speech",
+      "description": "A Facebook Inc <a href=\"https://www.reuters.com/companies/FB.O\" target=\"_blank\">(FB.O)</a> whistleblower on Sunday accused the social media giant of repeatedly prioritizing profit over clamping down on hate speech and misinformation, and said her lawyers have…",
+      "url": "https://www.reuters.com/technology/facebook-whistleblower-reveals-identity-ahead-senate-hearing-2021-10-03/",
+      "urlToImage": "https://www.reuters.com/resizer/3m7-iscj1GlyJh81NHQP13hHcm8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L5FNVMXEIFJPTDAZCMEXKQ3ZAQ.jpg",
+      "publishedAt": "2021-10-04T12:24:18Z",
+      "content": "Oct 3 (Reuters) - A Facebook Inc (FB.O) whistleblower on Sunday accused the social media giant of repeatedly prioritizing profit over clamping down on hate speech and misinformation, and said her law… [+3475 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "The Guardian"
-    },
-    "author": "Harry Davies in Stockholm",
-    "title": "Major Tory donor advised on Uzbekistan deal later found to be $220m bribe",
-    "description": "Leak shows Mohamed Amersi helped firm with what it later accepted was ‘corrupt payment’ to then Uzbek ruler’s daughterA major Conservative party donor who funded Boris Johnson’s campaign to become prime minister advised on the structure of a deal that was lat…",
-    "url": "https://amp.theguardian.com/news/2021/oct/04/major-tory-donor-advised-on-uzbekistan-deal-later-found-to-be-bribe-mohamed-amersi",
-    "urlToImage": "https://i.guim.co.uk/img/media/ac92434ae22f9de31211f740e1538d154281a0d7/0_0_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ec351104c51a3c0e544b9176f71da824",
-    "publishedAt": "2021-10-04T05:00:48Z",
-    "content": "A major Conservative party donor who funded Boris Johnsons campaign to become prime minister advised on the structure of a deal that was later found to be a $220m (£162m) bribe for the daughter of th… [+18820 chars]"
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": null,
+      "title": "Facebook executive: 'Ludicrous' to blame Capitol riot on social media - CNN Video",
+      "description": "Nick Clegg, Vice President of global affairs at Facebook, tells CNN's Brian Stelter that blaming social media for the January 6 Capitol insurrection is too simplistic of an explanation to a complicated problem.",
+      "url": "http://us.cnn.com/videos/media/2021/10/03/facebook-spokesperson-social-media-january-6-riot-rs-stelter-vpx.cnn",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211003115014-facebook-spokesperson-social-media-january-6-riot-rs-stelter-vpx-00011825-super-tease.jpg",
+      "publishedAt": "2021-10-04T12:22:41.2877846Z",
+      "content": ""
     },
     {
-    "source": {
-    "id": null,
-    "name": "The Siasat Daily"
-    },
-    "author": "IANS",
-    "title": "Apple to soon launch new MacBook Pros with 'M1X' silicon chip: Report - The Siasat Daily",
-    "description": "<ol><li>Apple to soon launch new MacBook Pros with 'M1X' silicon chip: Report  The Siasat Daily\r\n</li><li>Gurman: M1X MacBook Pro still on track for this year, likely ‘in the next month’  9to5Mac\r\n</li><li>Forget The MacBook Pro, Apple Has Bigger Plans  Forbe…",
-    "url": "https://www.siasat.com/apple-to-soon-launch-new-macbook-pros-with-m1x-silicon-chip-report-2201802/",
-    "urlToImage": "https://cdn.siasat.com/wp-content/uploads/2021/08/apple-maps.jpg",
-    "publishedAt": "2021-10-04T05:38:00Z",
-    "content": "San Francisco: Apple is reportedly planning to hold a Mac focused event within the next month where the tech giant may launch brand new MacBook Pros with a faster “M1X” Apple silicon chip and an upda… [+1473 chars]"
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Ramishah Maruf, CNN Business",
+      "title": "Facebook executive says it's 'ludicrous' to blame Jan. 6 on social media",
+      "description": "A senior Facebook executive said on \"Reliable Sources\" Sunday that the company will never be able to control all the content on its site, and may be open to regulation as lawmakers continue to crack down on the tech giant.",
+      "url": "http://us.cnn.com/2021/10/03/media/reliable-sources-facebook-vp-interview/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211003122830-nick-clegg-super-tease.jpg",
+      "publishedAt": "2021-10-04T11:30:58Z",
+      "content": null
     },
     {
-    "source": {
-    "id": null,
-    "name": "Benzinga"
-    },
-    "author": "Shivdeep Dhaliwal",
-    "title": "iPhone Users Of Facebook's WhatsApp To Get Colorful New Chat Bubbles, Disappearing Messages: Report - Benzinga",
-    "description": "<ol><li>iPhone Users Of Facebook's WhatsApp To Get Colorful New Chat Bubbles, Disappearing Messages: Report  Benzinga\r\n</li><li>WhatsApp for iOS readying Disappearing Messages feature and redesigned chat bubbles  9to5Mac\r\n</li><li>WhatsApp rolls out new disap…",
-    "url": "https://www.benzinga.com/news/21/10/23210784/iphone-users-of-facebooks-whatsapp-to-get-colorful-new-chat-bubbles-disappearing-messages-report",
-    "urlToImage": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/alexander-shatov-_qsuer9xyoy-unsplash_3.jpg",
-    "publishedAt": "2021-10-04T09:07:35Z",
-    "content": "Facebook Inc’s (NASDAQ: FB) mobile messaging platform WhatsApp is preparing to launch disappearing messages on Apple Inc’s (NASDAQ: AAPL) iPhones and is giving its chat bubbles a new look.\r\nWhat Happ… [+2013 chars]"
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Steve Dent",
+      "title": "Facebook whistleblower reveals identity, says company 'chooses profits over safety'",
+      "description": "The whistleblower who brought information about Facebook's awareness of Instagram's impact on teens has revealed herself as Frances Haugen in an interview with 60 Minutes.",
+      "url": "https://techcrunch.com/2021/10/04/facebook-whistleblower-reveals-identity-says-company-chooses-profits-over-safety/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/FA0S2YLWEAQ5Y2T.jpeg?w=640",
+      "publishedAt": "2021-10-04T11:14:03Z",
+      "content": "More posts by this contributor\r\nInternal documents published by the Wall Street Journal (WSJ) recently revealed that Facebook allowed VIPs to break its rules and that it was aware of how Instagram af… [+4096 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Hipertextual"
-    },
-    "author": "Rubén Chicharro",
-    "title": "Las primeras imágenes reales del Apple Watch Series 7 salen a la luz",
-    "description": "El Apple Watch Series 7 podría llegar a las tiendas en los próximos días. Al menos, eso indican algunas fuentes. Pero la cosa no queda ahí. Una serie de imágenes reales han emergido durante las últimas horas en un grupo de Facebook dedicado al producto, dejan…",
-    "url": "https://hipertextual.com/2021/10/las-primeras-imagenes-reales-del-apple-watch-series-7-salen-a-la-luz",
-    "urlToImage": "https://hipertextual.com/wp-content/uploads/2021/10/apple-watch-series-7-1.jpeg",
-    "publishedAt": "2021-10-04T09:50:53Z",
-    "content": "El Apple Watch Series 7 podría llegar a las tiendas en los próximos días. Al menos, eso indican algunas fuentes. Pero la cosa no queda ahí. Una serie de imágenes reales han emergido durante las últim… [+1873 chars]"
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Jaclyn Diaz",
+      "title": "Facebook's new whistleblower is renewing scrutiny of the social media giant",
+      "description": "Facebook could be facing its biggest scandal yet as a former employee comes forward to expose some of the company's secrets.",
+      "url": "https://www.npr.org/2021/10/04/1042921981/facebook-whistleblower-renewing-scrutiny-of-social-media-giant",
+      "urlToImage": "https://media.npr.org/assets/img/2021/10/03/ap21277006862704_wide-9dc90aeba6346dd608af64b20719a5d2ac8f8051.jpg?s=1400",
+      "publishedAt": "2021-10-04T11:09:00+00:00",
+      "content": "Facebook whistleblower Frances Haugen talks with CBS' Scott Pelley on a 60 Minutes episode that aired Sunday.\r\nRobert Fortunato/CBS News via AP\r\nA data scientist named Frances Haugen has revealed her… [+6541 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Hipertextual"
-    },
-    "author": "Rubén Chicharro",
-    "title": "El esperado MacBook Pro con chip M1X, a las puertas de ser presentado",
-    "description": "Przemyslaw Marczynski en Unsplash \r\n\n\" data-medium-file=\"https://images.unsplash.com/photo-1606922342331-061cbb448a23?ixid=MnwyMDU4NzZ8MHwxfGFsbHx8fHx8fHx8fDE2MjI3NDQwNzg&ixlib=rb-1.2.1&fm=jpg&q=85&fit=crop&w=800&h=533\" data-large-file=\"https://images.unsplas…",
-    "url": "https://hipertextual.com/2021/10/el-macbook-pro-con-chip-m1x-podria-anunciarse-antes-de-lo-esperado",
-    "urlToImage": "https://images.unsplash.com/photo-1606922342331-061cbb448a23?ixid=MnwyMDU4NzZ8MHwxfGFsbHx8fHx8fHx8fDE2MjI3NDQwNzg&ixlib=rb-1.2.1&fm=jpg&q=85&fit=crop&w=2560&h=1707",
-    "publishedAt": "2021-10-04T08:01:07Z",
-    "content": "Llevamos meses esperando el nuevo MacBook Pro con chip M1X, que llegará, según los últimos reportes, en dos versiones de tamaño (14 y 16 pulgadas), así como con una mayor potencia, un nuevo diseño y … [+2354 chars]"
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Alexis Simendinger",
+      "title": "The Hill's Morning Report - Presented by Facebook - Biden, Democrats to scale back agenda | TheHill",
+      "description": "&nbs...",
+      "url": "http://thehill.com/homenews/morning-report/575117-the-hills-morning-report",
+      "urlToImage": "https://thehill.com/sites/default/files/newsletter-open_100421getty.jpg",
+      "publishedAt": "2021-10-04T10:21:36Z",
+      "content": "Presented by Facebook\r\nWelcome to The Hills Morning Report. It is Monday! We get you up to speed on the most important developments in politics and policy, plus trends to watch. Alexis Simendinger an… [+21521 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Hipertextual"
-    },
-    "author": "José María López",
-    "title": "Así se instalan y funcionan las extensiones de Safari en iPhone y iPad con iOS 15",
-    "description": "Una de las novedades de Safari para iPhone y iPad en iOS 15 es que puedes instalar extensiones, complementos que sirven para integrar aplicaciones de terceros en tu navegador por defecto. Los beneficios son los mismos que disfrutas en tu navegador de escritor…",
-    "url": "https://hipertextual.com/2021/10/instalar-extensiones-safari-ios",
-    "urlToImage": "https://i2.wp.com/hipertextual.com/wp-content/uploads/2021/06/iOS-15.jpg?fit=1500%2C1125&ssl=1",
-    "publishedAt": "2021-10-04T06:01:00Z",
-    "content": "Una de las novedades de Safari para iPhone y iPad en iOS 15 es que puedes instalar extensiones, complementos que sirven para integrar aplicaciones de terceros en tu navegador por defecto. Los benefic… [+4607 chars]"
+      "source": { "id": "newsweek", "name": "Newsweek" },
+      "author": "Anders Anglesey",
+      "title": "Frances Haugen: 5 Biggest Revelations From Facebook Whistleblower's '60 Minutes' Interview",
+      "description": "Facebook said it continues \"to make significant improvements to tackle the spread of misinformation and harmful content.\"",
+      "url": "https://www.newsweek.com/frances-haugen-facebook-whistleblower-60-minute-interview-5-biggest-revalations-1635157",
+      "urlToImage": "https://d.newsweek.com/en/full/1906550/facebook-logos-seen-los-angeles.jpg",
+      "publishedAt": "2021-10-04T09:22:20Z",
+      "content": "Ex-Facebook employee Frances Haugen made a series of explosive claims about the company, including that it worked to \"prioritize growth over safety,\" during a 60 Minutes interview.\r\nIn the course of … [+9249 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Hipertextual"
-    },
-    "author": "El Recomendador",
-    "title": "Los mejores audiolibros disponibles en Audible que ahora puedes escuchar gratis durante tres meses",
-    "description": "Arranca el otoño y octubre es un mes genial para la literatura. Si quieres darle un vuelta de tuerca a eso de explorar mundos nuevos de letras, los audiolibros son un buen un método para descubrir nuevas historias. Hay muchos beneficios asociados a los audiol…",
-    "url": "https://hipertextual.com/2021/10/los-mejores-audiolibros-disponibles-en-audible-que-ahora-puedes-escuchar-gratis-durante-tres-meses",
-    "urlToImage": "https://hipertextual.com/wp-content/uploads/2020/10/hipertextual-audiolibros-podcasts-y-mucho-original-es-catalogo-audible-espana-su-lanzamiento-2020708857.jpg",
-    "publishedAt": "2021-10-04T09:32:09Z",
-    "content": "Arranca el otoño y octubre es un mes genial para la literatura. Si quieres darle un vuelta de tuerca a eso de explorar mundos nuevos de letras, los audiolibros son un buen un método para descubrir nu… [+3632 chars]"
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Philippe Escande",
+      "title": "« La complexité du métier de banquier, hautement régulé et si différent du leur, a eu raison des ambitions des GAFA »",
+      "description": "L’abandon par Google de son projet de service bancaire Plex montre que la volonté des Google, Apple, Facebook ou Amazon de se diversifier, apportant la rupture à toutes les activités industrielles qu’ils touchent, peine à se concrétiser, observe Philippe Esca…",
+      "url": "https://www.lemonde.fr/economie/article/2021/10/04/la-complexite-du-metier-de-banquier-hautement-regule-et-si-different-du-leur-a-eu-raison-des-ambitions-des-gafa_6097033_3234.html",
+      "urlToImage": "https://img.lemde.fr/2021/10/04/292/0/3500/1750/1440/720/60/0/93864b7_707189152-727104.jpg",
+      "publishedAt": "2021-10-04T08:24:48Z",
+      "content": "A Berlin, le 31 août 2021. ANNEGRET HILSE / REUTERS\r\nPertes &amp; profits. Google renonce à devenir banquier. Il a annoncé, vendredi 1er octobre, labandon de son projet intitulé « Google Plex ». Lidé… [+2735 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Xataka.com"
-    },
-    "author": "Javier Pastor",
-    "title": "MacBook Pro a la vista: el chip M1X apunta alto con una versión con hasta 32 núcleos gráficos",
-    "description": "Los futuros MacBook Pro con los nuevos chip M1X —si es que finalmente se llaman así— están generando aún más expectativas que los recién presentados iPhone 13, y desde luego esa revisión de su SoC es protagonista clara de la renovación.\n<!-- BREAK 1 -->\nMark …",
-    "url": "https://www.xataka.com/ordenadores/macbook-pro-a-vista-chip-m1x-apunta-alto-version-32-nucleos-graficos",
-    "urlToImage": "https://i.blogs.es/e692fc/mbp1/840_560.jpeg",
-    "publishedAt": "2021-10-04T09:00:34Z",
-    "content": "Los futuros MacBook Pro con los nuevos chip M1X si es que finalmente se llaman así están generando aún más expectativas que los recién presentados iPhone 13, y desde luego esa revisión de su SoC es p… [+1493 chars]"
+      "source": { "id": "the-next-web", "name": "The Next Web" },
+      "author": "Ivan Mehta",
+      "title": "Who is Facebook whistleblower Frances Haugen?",
+      "description": "Over the last few weeks, the Wall Street Journal published a series of reports against Facebook, alleging the company allowed the proliferation of hate speech on its platform, and ignored ...",
+      "url": "http://thenextweb.com/news/facebook-whistleblower-frances-haugen",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2Ffrances-haugen.jpg&signature=4336495be82c0b8c037db8481d76f64e",
+      "publishedAt": "2021-10-04T07:33:46Z",
+      "content": "Over the last few weeks, the Wall Street Journal published a series of reports against Facebook, alleging the company allowed the proliferation of hate speech on its platform, and ignored the safety … [+3084 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "Digital Trends"
-    },
-    "author": "Trevor Mogg",
-    "title": "iPhone in space: SpaceX crew shares Earth image shot on Apple’s handset",
-    "description": "An iPhone recently found its way to space as part of SpaceX’s Inspiration4 mission, which last month became the world’s first all-civilian orbital trip.",
-    "url": "https://www.digitaltrends.com/mobile/spacex-crew-shares-gorgeous-earth-image-shot-on-iphone/",
-    "urlToImage": "https://icdn.digitaltrends.com/image/digitaltrends/iphone-image-of-earth.jpg",
-    "publishedAt": "2021-10-04T02:00:44Z",
-    "content": "SpaceXs Inspiration4 crew, which last month completed the worlds first all-civilian orbital mission, recently started sharing some incredible Earth images shot with a top-end Nikon camera.\r\nBut at th… [+1962 chars]"
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "https://www.engadget.com/about/editors/steve-dent",
+      "title": "Facebook whistleblower reveals identity, says company 'chooses profits over safety' | Engadget",
+      "description": "The whistleblower behind several recent Facebook reports says the company \"chooses profits over safety.\".",
+      "url": "https://www.engadget.com/facebook-whistleblower-reveals-identity-says-company-chooses-profits-over-safety-062311634.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/3e080c90-24dd-11ec-b7ef-aef569fea93e",
+      "publishedAt": "2021-10-04T06:37:23.781379Z",
+      "content": "Internal documents published by the Wall Street Journal (WSJ) recently revealed that Facebook allowed VIPs to break its rules and that it was aware of how Instagram affected the mental health of teen… [+3201 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "The New Yorker"
-    },
-    "author": "Doreen St. Félix",
-    "title": "A Conflicted Portrait of Linda Tripp in “Impeachment”",
-    "description": "The latest installment of “American Crime Story” wants to complicate the villainization of Tripp, the civil servant who betrayed Monica Lewinsky, by putting her treachery in the greater context of a cultural and political rot, Doreen St. Félix writes.",
-    "url": "https://www.newyorker.com/magazine/2021/10/11/a-conflicted-portrait-of-linda-tripp-in-impeachment",
-    "urlToImage": "https://media.newyorker.com/photos/61560c52f0cbaf1e01ace8c5/16:9/w_1280,c_limit/211011_r39152.jpg",
-    "publishedAt": "2021-10-04T10:00:00Z",
-    "content": "Much has been made of the fact that Monica Lewinsky is one of the producers of Impeachment: American Crime Story, the third installment in Brad Falchuk and Ryan Murphys FX anthology series. The show … [+8413 chars]"
+      "source": { "id": "cnn-es", "name": "CNN Spanish" },
+      "author": "CNN",
+      "title": "Denunciante de Facebook revela su identidad y dice que la compañía priorizó las ganancias sobre el bien público",
+      "description": "Frances Haugen, exgerente de producto de Facebook, dice que documentos muestran que la empresa sabe que sus plataformas se utilizan para difundir odio, violencia y desinformación, y que ha tratado de ocultar esa evidencia.",
+      "url": "https://cnnespanol.cnn.com/2021/10/04/facebook-denunciante-frances-haugen-trax/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2021/10/CNN-Facebook.jpeg?quality=100&strip=info",
+      "publishedAt": "2021-10-04T06:35:06Z",
+      "content": "Adolescentes analizan cómo los impactan las redes social 2:41\r\nNueva York (CNN Business) -- La identidad de la denunciante de Facebook que publicó decenas de miles de páginas de investigaciones y doc… [+7724 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "heise online"
-    },
-    "author": "Ben Schwan",
-    "title": "MacBook Pro M1X und mehr: Warten auf das nächste Apple-Event",
-    "description": "Noch im Oktober dürfte Apple eine zweite Herbstveranstaltung durchführen. Sie wird vor allem im Zeichen neuer Macs stehen – doch das ist nicht alles.",
-    "url": "https://www.heise.de/news/MacBook-Pro-M1X-und-mehr-Warten-auf-das-naechste-Apple-Event-6206768.html",
-    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/1/7/7/5/7/8/shutterstock_1862075311-6416c883dcf90145.jpeg",
-    "publishedAt": "2021-10-04T09:00:00Z",
-    "content": "Die Gerüchteküche ist sich sicher: Das nächste Apple-Event steht zeitnah vor der Tür. Zwar hatte der Konzern auf der letzten Keynote Mitte September neben iPhone 13, 13 Pro, 13 mini und 13 Pro Max au… [+2067 chars]"
+      "source": { "id": "time", "name": "Time" },
+      "author": "Chad de Guzman",
+      "title": "The Facebook Whistleblower Revealed Herself on <em>60 Minutes</em>. Here's What You Need to Know",
+      "description": "Frances Haugen revealed herself as the Facebook whistleblower in a '60 Minutes' interview. Here's everything you need to know.",
+      "url": "http://time.com/6103645/facebook-whistleblower-frances-haugen/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2021/10/Frances-Haugen-60-Minutes.jpg?quality=85&crop=0px%2C0px%2C1920px%2C1005px&resize=1200%2C628&strip",
+      "publishedAt": "2021-10-04T05:05:48Z",
+      "content": "The Facebook whistleblower who caused a firestorm after releasing internal documents detailing how the company failed to address negative effects of its social media products came forward Sunday nigh… [+4004 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "heise online"
-    },
-    "author": "Frank Schräer",
-    "title": "Montag: Office 2021, Windows 11, iOS-Update, App-Umsätze & Merkur-Fotos",
-    "description": "Office 2021: Preise & Features + Video: Wie & warum Windows 11 + iOS 15.0.1 gegen Probleme + Rekordumsätze mit Smartphone-Apps + Raumsonde fotografiert Merkur",
-    "url": "https://www.heise.de/news/Montag-Office-2021-Windows-11-iOS-Update-App-Umsaetze-Merkur-Fotos-6207022.html",
-    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/1/7/7/7/5/1/montag-7f34c47a56aaface.jpeg",
-    "publishedAt": "2021-10-04T04:30:00Z",
-    "content": "Zum Wochenende hat Microsoft einige Details seiner nächsten Office-Suite verraten, die gleichzeitig mit Windows 11 ab Anfang Oktober erhältlich sein wird. Passenderweise erklärt c't im Video, wie man… [+2825 chars]"
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Brian Stelter, CNN Business",
+      "title": "'We need to admit reality,' Facebook whistleblower says. Here's what might happen next",
+      "description": "Former Facebook employee Frances Haugen says \"I believe in truth and reconciliation — we need to admit reality. The first step of that is documentation.\"",
+      "url": "http://us.cnn.com/2021/10/03/media/facebook-whistleblower-reliable-sources/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211003204507-01-frances-haugen-60-minutes-10-03-2021-super-tease.jpg",
+      "publishedAt": "2021-10-04T03:18:27Z",
+      "content": null
     },
     {
-    "source": {
-    "id": null,
-    "name": "Genbeta.com"
-    },
-    "author": "Bárbara Bécares",
-    "title": "La exempleada de Facebook que ha filtrado sus documentos internos: permiten el odio y la desinformación, solo quieren ganar dinero",
-    "description": "Hace unas semanas se filtró una investigación interna de Facebook a The Wall Street Journal que mostraba cómo la empresa sabe perfectamente que sus redes sociales son tóxicas para las mujeres adolescentes, algo que ha negado en público. \n<!-- BREAK 1 --><!--m…",
-    "url": "https://www.genbeta.com/actualidad/exempleada-facebook-que-ha-filtrado-sus-documentos-internos-permiten-odio-desinformacion-solo-quieren-ganar-dinero",
-    "urlToImage": "https://i.blogs.es/305a0b/facebookvideo/840_560.jpg",
-    "publishedAt": "2021-10-04T08:21:26Z",
-    "content": "Hace unas semanas se filtró una investigación interna de Facebook a The Wall Street Journal que mostraba cómo la empresa sabe perfectamente que sus redes sociales son tóxicas para las mujeres adolesc… [+6181 chars]"
+      "source": { "id": "the-huffington-post", "name": "The Huffington Post" },
+      "author": "Mary Papenfuss",
+      "title": "Facebook Whistleblower Frances Haugen Reveals Identity In Bombshell '60 Minutes' Interview",
+      "description": "Haugen, who worked on Facebook's civic misinformation team, secretly copied thousands of internal documents before leaving the company in May.",
+      "url": "https://www.huffpost.com/entry/facebook-frances-haugen-60-minutes-whistleblower-jan-6_n_615a46b0e4b008640eb5d6b5",
+      "urlToImage": "https://img.huffingtonpost.com/asset/615a72fd240000161a506bb5.jpg?cache=bo7vvvjsmp&ops=1778_1000",
+      "publishedAt": "2021-10-04T03:16:35Z",
+      "content": "A whistleblowing former Facebook employee publicly revealed her identity for the first time on 60 Minutes Sunday to condemn the company for helping to fuel the violent Jan. 6 Capitol insurrection and… [+4467 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "MarketWatch"
-    },
-    "author": "Rick Bookstaber",
-    "title": "Next Avenue: Your index funds may not be as diversified as you think",
-    "description": "Investors with S&P 500 index funds and ETFs may not realize the added risk they're now taking, says a professional risk analyst.",
-    "url": "https://www.marketwatch.com/story/your-index-funds-may-not-be-as-diversified-as-you-think-11633118556",
-    "urlToImage": "https://images.mktw.net/im-410438/social",
-    "publishedAt": "2021-10-04T09:03:00Z",
-    "content": "Diversification is the most powerful concept in finance. By holding many stocks, you can substantially reduce the portfolios risk. When some stocks are going up in value, others might be going down. … [+5606 chars]"
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Frances Haugen: Facebook whistleblower reveals identity",
+      "description": "Facebook ex-product manager Frances Haugen says the company prioritises \"growth over safety\".",
+      "url": "http://www.bbc.co.uk/news/technology-58784615",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/186A/production/_120805260_5df764c4-9923-4ba2-ac2b-6f3613172aa7.png",
+      "publishedAt": "2021-10-04T03:07:22.1880898Z",
+      "content": "By James ClaytonNorth America technology reporter\r\nImage caption, Ms Haugen shared internal Facebook documents with the Wall Street Journal\r\nA former Facebook whistleblower responsible for a series o… [+3318 chars]"
     },
     {
-    "source": {
-    "id": null,
-    "name": "MarketWatch"
-    },
-    "author": "Andy Bornhop",
-    "title": "Kelley Blue Book: The new 2022 Acura MDX is sporty and luxurious",
-    "description": "The luxurious 3-row SUV has been a consistent solid seller for Acura, and this all-new 4th-generation model is even better in plenty of ways.",
-    "url": "https://www.marketwatch.com/story/the-new-2022-acura-mdx-is-sporty-and-luxurious-11633029121",
-    "urlToImage": "https://images.mktw.net/im-409649/social",
-    "publishedAt": "2021-10-04T09:02:00Z",
-    "content": "The MDX has been around since 2001, and this luxurious 3-row SUV has been a consistent solid seller for Acura. In fact, in 14 of the last 19 years, Acura has sold more than 50,000 MDXs a year. All, f… [+17814 chars]"
+      "source": { "id": "google-news-uk", "name": "Google News (UK)" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Frances Haugen: Facebook whistleblower reveals identity",
+      "description": "Facebook ex-product manager Frances Haugen says the company prioritises \"growth over safety\".",
+      "url": "https://www.bbc.co.uk/news/technology-58784615",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CC24/production/_120806225_screenshot2021-10-03at19.01.26.png",
+      "publishedAt": "2021-10-04T03:00:34+00:00",
+      "content": "By James ClaytonNorth America technology reporter\r\nImage caption, Ms Haugen shared internal Facebook documents with the Wall Street Journal\r\nA former Facebook whistleblower responsible for a series o… [+3321 chars]"
     }
-    ]
-    }
+  ]
+}
