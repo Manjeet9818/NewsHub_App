@@ -1,10 +1,24 @@
+
 import React, { Component } from "react";
 import NewsItem from "./NewsItem";
 import Spinner from "./Spinner";
-//import PropTypes from 'prop-types'
+import PropTypes from 'prop-types'
 export class News extends Component {
 
+static defaultProps={
+  pageSize:10, 
+  country:"us" ,
+  category:"science"
 
+}
+
+  static propTypes = {
+    pageSize:PropTypes.number,
+    country:PropTypes.string,
+    category:PropTypes.string
+
+  }
+  
   constructor() {
     super();
     console.log("hello i am a constructor of new  component");
@@ -108,3 +122,20 @@ handlePreclick = async()=> {
 }
 
 export default News;
+
+
+ 
+// static defaultProps={
+//   pageSize:10, 
+//   country:"us" ,
+//   category:"science"
+
+// }
+
+//   static PropTypes = {
+//     pageSize:PropTypes.number,
+//     country:PropTypes.string,
+//     category:PropTypes.string
+
+//   }
+  
