@@ -92,7 +92,8 @@ handlePreclick = async()=> {
                   title={element.title ? element.title : ""}
                   description={element.description ? element.description : ""}
                   imageUrl={element.urlToImage}
-                  newsUrl={element.url}
+                  newsUrl={element.url} author={element.author}
+                  date={element.publishedAt} source={element.source.name}
                 />
               </div>
             );
