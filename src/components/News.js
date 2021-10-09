@@ -3,6 +3,7 @@ import React, { Component } from "react";
 import NewsItem from "./NewsItem";
 import Spinner from "./Spinner";
 import PropTypes from 'prop-types'
+
 export class News extends Component {
 
 static defaultProps={
@@ -80,8 +81,8 @@ handlePreclick = async()=> {
   render() {
    console.log("render");
     return (
-      <div className="container ">
-       <h1 className="text-center">NewsHub-Top Most Heading</h1>
+      <div className="container" >
+       <h1 className="text-center" style={{margin:'30px 0px'}}>NewsHub-Top Most Heading</h1>
        {this.state.loading&&<Spinner/>}
         <div className="row">
           {!this.state.loading&&this.state.articles.map((element) => {
